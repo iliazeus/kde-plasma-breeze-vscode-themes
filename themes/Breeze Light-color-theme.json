@@ -42,7 +42,7 @@
 		"list.focusBackground": "#3DAEE988",
 		"list.focusForeground": "#232629",
 		"list.hoverBackground": "#3dade91c",
-		"list.inactiveFocusBackground": "#3DAEE988",
+		"list.inactiveFocusBackground": "#3DAEE940",
 		"list.inactiveFocusOutline": "#3DAEE9",
 		"list.inactiveSelectionBackground": "#3DAEE988",
 		"list.inactiveSelectionForeground": "#232629",
